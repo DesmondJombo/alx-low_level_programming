@@ -8,5 +8,7 @@ int convert_day(int month, int day);
 void print_alphabet_x10(void);
 int _islower(int c);
 int _putchar(char c);
+int _isalpha(int c);
 #endif
+
 
