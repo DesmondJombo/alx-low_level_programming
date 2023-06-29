@@ -39,3 +39,4 @@ int main(void)
     print_array(a, sizeof(a) / sizeof(int));
     return (0);
 }
+
